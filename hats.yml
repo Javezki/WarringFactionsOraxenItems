@@ -4,6 +4,7 @@
 # Potion effects list for latest spigot version: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/potion/PotionEffectType.html
 # Random UUID generator: https://www.uuidgenerator.net/
 # Color codes: https://docs.adventure.kyori.net/minimessage.html#format
+# Testing pull requests
 
 anubis_head:
   displayname: "<gradient:#3948AE:#6699FF>Anubis Head"
